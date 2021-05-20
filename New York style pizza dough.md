@@ -4,11 +4,12 @@ A fantastic New York style pizza dough based on J. Kenji Alt-Lopez's [awesome re
 ## Ingredients
 
 ### Dry
-- Bread flour: 155g
+- Bread flour: 160g
 - Whole wheat flour: 15g
+- Poolish: 13.333g
 - Dark rye flour: 10g
 - Salt: 3g
-- Yeast: 3g
+- Yeast: 2g
 
 ### Wet
 - Honey: 2g
